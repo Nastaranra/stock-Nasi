@@ -1,5 +1,3 @@
-%%writefile app1.py
-
 import streamlit as st
 
 import yfinance as yf
